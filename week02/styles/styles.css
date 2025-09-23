@@ -26,6 +26,10 @@ main {
     max-width: 840px;
 }
 
+h1 {
+    color: black;
+}
+
 aside {
     width: 20rem;
     margin: 1rem;
