@@ -27,7 +27,7 @@ main {
 }
 
 h1 {
-    color: black;
+    color: rgb(red, green, blue);
 }
 
 aside {
