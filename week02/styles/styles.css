@@ -1,12 +1,12 @@
 nav a {
-    background-color: darkblue;
+    background-color: #00008b;
     padding: 10px;
 }
 
 nav a {
-    color: white;
+    color: #fff;
     display: block;
-    padding: 20x
+    padding: 20px
 }
 
 img {
@@ -21,7 +21,8 @@ p {
     padding: 0;    
 }
 
-main {max-width: 840px;
+main {
+    max-width: 840px;
 }
 
 aside {
@@ -30,8 +31,7 @@ aside {
     border: 1px solid rgb(0 0 0 / 0.2); 
     border: 1rem;
     background-color: #eee;
-    color: #333;
-    text-align: center; 
+    color: #333; 
 }
 
 aside img {
@@ -46,7 +46,7 @@ main img {
 
 footer {
     margin-top: 15px;
-    border-top: ipx solid #000;
+    border-top: 1px solid #000;
     text-align: center;
 }
 
