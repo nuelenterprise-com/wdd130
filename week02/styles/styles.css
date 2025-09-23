@@ -5,8 +5,9 @@ nav a {
 
 nav a {
     color: #fff;
+    padding: 20px;
     display: block;
-    padding: 20px
+    
 }
 
 img {
@@ -29,19 +30,24 @@ aside {
     width: 20rem;
     margin: 1rem;
     border: 1px solid rgb(0 0 0 / 0.2); 
-    border: 1rem;
+    padding: 1rem;
     background-color: #eee;
     color: #333; 
 }
 
 aside img {
     width: 200px;
-    height: auto;
+    height: auto;.
+    border: 1px solid black;
+    padding: 2px;
+    box-shadow: 0 0 30px gray;
+
     }
 
 main img {
     width: 150px;
     height: auto
+
 }
 
 footer {
