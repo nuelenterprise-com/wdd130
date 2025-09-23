@@ -1,11 +1,11 @@
-nav a {
+nav {
     background-color: #00008b;
     padding: 10px;
 }
 
 nav a {
-    color: #fff;
-    padding: 20px;
+    color: #00008b;
+    padding: 10px;
     display: block;
     
 }
@@ -37,7 +37,7 @@ aside {
 
 aside img {
     width: 200px;
-    height: auto;.
+    height: auto;
     border: 1px solid black;
     padding: 2px;
     box-shadow: 0 0 30px gray;
