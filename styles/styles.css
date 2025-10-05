@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Class Selectors */
+
+.box {
+    margin: 1rem;
+    border: 1px solid rgb(0 0 0 / 10%);
+    padding: 1rem;
+    background-color: #ddd;
+    color: #000
+}
+
+nav {
+    background-color: steelblue;
+    padding: 10px
+}
+
+nav a {
+    color: white;
+    display: block;
+    padding: 10px;
+}
+
+main img {
+    /* you nost likely will have other CSS declarations here */
+    width: 150;
+    height: auto;
+    padding: 2px;
+    float: right;
+    margin: 0 0 1rem 1rem
+    
+}
+
+:root {
+    --heading-background-color: rgb(0, 26, 255);
+    --heading-text-color: #333;
+    --heading-font:'Montserrat', Helvetica, sans-serif;
+    --padding: 1rem;
+    --border: 1px solid rgb(0 0 0 / 0.1);
+}
+
+/* some example variable use in the declarations. */
+
+h1 {
+    background-color: var(--heading-background-color);
+    color: var(--heading-text-color);
+    font-family: var(--heading-font);
+    padding: var(--padding);
+}
+
+aside{
+    width: 20em;
+    text-align: center;
+    margin: 10px auto;
+    padding: var(--padding);
+    b0x-shadow: 0 0 10px rgb(0 0 0 / 0.1);
+}
+
+aside h2 {
+    position: absolute;
+    top: 455px;
+    left: 130px
+}
