@@ -103,7 +103,7 @@ section h2 {
    background-color: var(--accent1-color);
 }
 
-nav {
+ul {
     padding: 16px;
     block-size:auto;
 }
