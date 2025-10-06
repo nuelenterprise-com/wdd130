@@ -12,7 +12,7 @@ header {
     color: var(--accent2-color);
 }
 
-* {
+ *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -103,8 +103,9 @@ section h2 {
    background-color: var(--accent1-color);
 }
 
-ul {
+nav {
     padding: 16px;
+    block-size:auto;
 }
 
 
