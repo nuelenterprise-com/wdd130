@@ -5,11 +5,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Orji Emmanuel Chinenyenwa | WDD 130</title>
+    <meta name="description" content="Orji Emmanuel, Byu Idaho Wdd 130, Course Homepage">
+    <meta name="author" content="Orji Emmanuel Chinenyenwa">
+    <link rel="stylesheet" href="styles/styles.css">
 </head>
 
 <body>
     <header>
-        <nav>
+    <nav>
             <a href="#">Home</a>
             <a href="wwr/">Rafting website</a>
         </nav>
