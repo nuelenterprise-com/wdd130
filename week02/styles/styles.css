@@ -4,7 +4,7 @@ nav {
 }
 
 nav a {
-    color: #00008b;
+    color: white;
     padding: 10px;
     display: block;
     
@@ -34,9 +34,10 @@ aside {
     width: 20rem;
     margin: 1rem;
     border: 1px solid rgb(0 0 0 / 0.2); 
-    padding: 1rem;
+    padding: 1em;
     background-color: #eee;
     color: #333; 
+    text-align: center;
 }
 
 aside img {
