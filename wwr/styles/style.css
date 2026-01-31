@@ -24,7 +24,7 @@ body {
 }
 
 header, main, footer {
-    width: 100%;
+    width: 840px;
     margin: - 0 auto;
 }
 
@@ -73,7 +73,7 @@ aside img {
 
 aside {
     position: absolute;
-    top: 950px;
+    top: 590px;
     width: 100%;
     padding: 10px;
     text-align: left;
